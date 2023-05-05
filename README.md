@@ -12,5 +12,5 @@
 | Data  | Description  | Author  | Comments  |
 |---|---|---|---|
 | 28.04.2023| V1.0 | Alexandra Perja |  |
-| 05.05.2023 | V1.1 | Andrada Pop | More details added testing implementation |
+| 05.05.2023 | V1.1 | Andrada Pop | More details added on Test Implementation |
 | 05.06.2023 | V1.2 | Alexandra Perja |  Test completion report added |
