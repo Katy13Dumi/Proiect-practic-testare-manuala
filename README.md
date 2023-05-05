@@ -31,3 +31,5 @@
 
 Orange *HRM*.
 
+## This are the Test Conditions
+![TEST CONDITION ](https://github.com/Katy13Dumi/Proiect-practic-testare-manuala/blob/main/img.JPG)
