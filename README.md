@@ -37,4 +37,5 @@ Orange *HRM*.
 ![TEST CONDITION ](https://github.com/Katy13Dumi/Proiect-practic-testare-manuala/blob/main/img.JPG?raw=true)
 
 Test Cases [Test Case nr1 ](https://github.com/Katy13Dumi/Proiect-practic-testare-manuala/blob/main/img.JPG)
+
 Test Cases [Test Case nr1 ] (https://github.com/Katy13Dumi/Proiect-practic-testare-manuala/blob/main/img.JPG)
