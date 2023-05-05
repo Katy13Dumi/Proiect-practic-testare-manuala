@@ -91,6 +91,3 @@ Job submenu of Admin module
 | Run functional test cases for Job submenu of Admin module  | 28.04.2023 | Alexandra Perja |  
 | Run GUI test cases for Job submenu of Admin module   | 02.05.2023 | Anca Pop | 
  
-
- 
-   
